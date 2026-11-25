@@ -3,7 +3,7 @@ import { services } from "@/app/lib/services";
 
 export default function ServicesPage() {
     return (
-        <main className="mx-auto max-w-4xl p-8">
+        <main>
             <h1 className="text-3xl font-bold">خدمات ما</h1>
             <p className="mt-2 text-gray-600">
                 روی هر خدمت کلیک کن تا جزئیاتش را ببینی.

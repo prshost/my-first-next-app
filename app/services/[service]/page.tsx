@@ -11,7 +11,7 @@ export default async function ServiceDetailPage({
 
     if (!service) {
         return (
-            <main className="mx-auto max-w-3xl p-8">
+            <main>
                 <h1 className="text-2xl font-bold">این خدمت پیدا نشد</h1>
                 <Link href="/services" className="mt-4 inline-block text-blue-600">
                     بازگشت به لیست خدمات

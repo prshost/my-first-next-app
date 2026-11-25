@@ -22,3 +22,10 @@ npm run dev
 - Route Groups like (marketing)
 - Client-side navigation with <Link>
 - Active links with usePathname in a Client Component
+
+## Day 3
+- How the Root Layout works and its rules
+- Sticky footer with Flexbox in the Root Layout
+- Nested layout for /services with a sidebar
+- layout.tsx persists across navigation, template.tsx remounts
+- Enter animation with template.tsx
