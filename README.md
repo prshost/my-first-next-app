@@ -15,3 +15,10 @@ Day 1 of my 30-day Next.js learning plan.
 ## Run locally
 npm install
 npm run dev
+
+## Day 2
+- Nested routes with folders
+- Dynamic routes with [service]
+- Route Groups like (marketing)
+- Client-side navigation with <Link>
+- Active links with usePathname in a Client Component
